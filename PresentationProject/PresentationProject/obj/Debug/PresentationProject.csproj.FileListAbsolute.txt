@@ -1,0 +1,9 @@
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\bin\PresentationProject.dll
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\bin\PresentationProject.pdb
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\bin\EntityFramework.dll
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\bin\EntityFramework.xml
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\obj\Debug\PresentationProject.dll
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\obj\Debug\PresentationProject.pdb
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\bin\Recaptcha.dll
+c:\users\lily\documents\visual studio 2010\Projects\PresentationProject\PresentationProject\bin\Recaptcha.pdb
